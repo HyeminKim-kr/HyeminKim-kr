@@ -1,4 +1,4 @@
-## Hi there, I'm Hyemin Kim 👋
+## Hi, I'm Hyemin Kim
 #### A Little About Me
 ###### I am currently learning AI Engineering. I've done some Machine Learning and Deep Learning projects.
 
